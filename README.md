@@ -1,4 +1,6 @@
 # hadoop-training
+Roei Shalom
+211671722
 
 Exercise 1
 Q1. 6
